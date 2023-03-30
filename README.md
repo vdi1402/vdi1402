@@ -9,7 +9,7 @@
 - Learning new things everyDay!
 
 
-### PortFolio!
+### PortFolio
 You can check out my portfolio at https://vidhitomar.netlify.app/ (going to update it soon!).
 
 
